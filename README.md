@@ -1,2 +1,2 @@
-# openbor-script-afterimage
-Draw afterimages (shadow trails) with OpenBOR script.
+# DC Afterimage
+Draw afterimages (shadow trails) with OpenBOR script. Full readme in progress.
